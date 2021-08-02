@@ -38,6 +38,7 @@ namespace sitecore_assignment_consoleApp
             string searchResultsPage = amazonSearchResultPage.GetCurrentPageTitile();
             Console.WriteLine("Amazon search results page loaded successfully, Page Title : " + searchResultsPage);
             amazonProductsDetailsPage = amazonSearchResultPage.selectProduct(productNumber);
+            Console.WriteLine("Selected product number " + productNumber + " from search results page successfully");
 
             //Goto product details page by selecting the first product
             string productDetailsPageTitle = amazonProductsDetailsPage.GetCurrentPageTitile();

@@ -3427,11 +3427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\G3\\source\\repos\\sitecore-assignment-consoleApp\\sitecore-assignment-consoleApp.csproj",
+      "projectUniqueName": "C:\\Dinesh_Assignment\\sitecore-assignment-consoleApp\\sitecore-assignment-consoleApp.csproj",
       "projectName": "sitecore-assignment-consoleApp",
-      "projectPath": "C:\\Users\\G3\\source\\repos\\sitecore-assignment-consoleApp\\sitecore-assignment-consoleApp.csproj",
+      "projectPath": "C:\\Dinesh_Assignment\\sitecore-assignment-consoleApp\\sitecore-assignment-consoleApp.csproj",
       "packagesPath": "C:\\Users\\G3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\G3\\source\\repos\\sitecore-assignment-consoleApp\\obj\\",
+      "outputPath": "C:\\Dinesh_Assignment\\sitecore-assignment-consoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\G3\\AppData\\Roaming\\NuGet\\NuGet.Config",
